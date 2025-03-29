@@ -2,10 +2,10 @@
 Following templates are included in the package:
 
 ```
-Template Name                  Short Name  Language  Tags
------------------------------  ----------  --------  -------------------
-Vintage Story Mod              vsmod       [C#]      Games/Vintage Story             
-Vintage Story Mod (.dll only)  vsmoddll    [C#]      Games/Vintage Story 
+Template Name                      Short Name  Language  Tags               
+---------------------------------  ----------  --------  -------------------
+Vintage Story Mod                  vsmod       [C#],F#   Games/Vintage Story
+Vintage Story Mod (code/dll only)  vsmoddll    [C#],F#   Games/Vintage Story
 ```
 - vsmod
 
@@ -18,7 +18,7 @@ Vintage Story Mod (.dll only)  vsmoddll    [C#]      Games/Vintage Story
 ## Build & and install locally
 
 #### Requirements  
-- [dotnet SKD 7.0](https://dotnet.microsoft.com/en-us/download)
+- [dotnet SDK 7.0](https://dotnet.microsoft.com/en-us/download)
 
 ```shell
 cd VSModTemplates

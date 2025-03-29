@@ -1,6 +1,7 @@
 {
     "$schema": "http://json.schemastore.org/template",
-    "identity": "VSModTemplate.DLL",
+    "groupIdentity": "VSModTemplate.DLL",
+    "identity": "VSModTemplate.DLL.CSharp",
     "author": "Anego Studios",
     "classifications": [
         "Games",
